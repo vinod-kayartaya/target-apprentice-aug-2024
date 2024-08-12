@@ -1,0 +1,12 @@
+.heading {
+  color: red
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box {
+  min-height: 150px;
+  border: 2px solid black;
+}
