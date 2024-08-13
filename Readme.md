@@ -4,8 +4,8 @@
 
 ### Resources:
 
-- [Story of Node JS](https://youtu.be/LB8KwiiUGy0?si=xFSZp3v_svfWcEi9)
-- [Story of React JS](https://youtu.be/8pDqJVdNa44?si=-J6ijD9eFaYrEk-c)
+- 🎥 [Story of Node JS](https://youtu.be/LB8KwiiUGy0?si=xFSZp3v_svfWcEi9)
+- 🎥 [Story of React JS](https://youtu.be/8pDqJVdNa44?si=-J6ijD9eFaYrEk-c)
 
 ### Steps to use the React project
 
