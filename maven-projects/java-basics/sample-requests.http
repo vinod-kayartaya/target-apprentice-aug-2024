@@ -1,0 +1,6 @@
+GET /api/products
+Host: localhost
+Accept: application/json
+
+###
+

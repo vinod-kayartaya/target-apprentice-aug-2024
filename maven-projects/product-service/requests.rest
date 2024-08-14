@@ -1,0 +1,22 @@
+@host=localhost:8080
+@accept=application/json
+###
+
+GET /api/products
+Host: {{host}}
+Accept: {{accept}}
+
+###
+
+GET /api/products/23
+Host: {{host}}
+Accept: {{accept}}
+
+###
+
+GET /api/products/232
+Host: {{host}}
+Accept: {{accept}}
+
+###
+

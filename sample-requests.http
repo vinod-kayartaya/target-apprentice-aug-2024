@@ -1,0 +1,16 @@
+GET /api/contacts/8ddb7fcf-0a7a-4eeb-a78f-13238ed85a77 HTTP/1.1
+Host: localhost:8080
+Accept: text/plain
+
+###
+
+POST /api/contacts
+Host: localhost:8080
+Accept: application/json
+Content-Type: application/json
+
+{
+    "firstname": "Vinod",
+    "email": "vinod@vinod.co",
+    "phone": "9731424784"
+}

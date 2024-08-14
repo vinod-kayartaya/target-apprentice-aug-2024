@@ -27,6 +27,12 @@
             <version>1.4.197</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.targetindia</groupId>
+            <artifactId>vin-utils</artifactId>
+            <version>1.0.3</version>
+        </dependency>
+
     </dependencies>
 
 </project>

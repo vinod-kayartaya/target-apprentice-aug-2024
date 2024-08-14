@@ -12,7 +12,7 @@ public class ProductUsageDemo {
     public static void main(String[] args) throws Exception {
         line();
         ProductRepository repo = new ProductRepository();
-        var p = repo.findById(120);
+        var p = repo.findById(2);
         System.out.println(p);
         line();
     }
