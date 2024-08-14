@@ -1,0 +1,24 @@
+2024-08-14T15:19:54.042+05:30  INFO 53152 --- [Product service] [main] c.targetindia.ProductServiceApplication  : Starting ProductServiceApplication using Java 17.0.7 with PID 53152 (/Users/vinod/Desktop/trainings/target-aug-2024/maven-projects/product-service/target/classes started by vinod in /Users/vinod/Desktop/trainings/target-aug-2024/maven-projects/product-service)
+2024-08-14T15:19:54.046+05:30  INFO 53152 --- [Product service] [main] c.targetindia.ProductServiceApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-08-14T15:19:54.723+05:30  INFO 53152 --- [Product service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-14T15:19:54.820+05:30  INFO 53152 --- [Product service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 84 ms. Found 1 JPA repository interface.
+2024-08-14T15:19:55.565+05:30  INFO 53152 --- [Product service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-14T15:19:55.582+05:30  INFO 53152 --- [Product service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-14T15:19:55.583+05:30  INFO 53152 --- [Product service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-14T15:19:55.679+05:30  INFO 53152 --- [Product service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-14T15:19:55.680+05:30  INFO 53152 --- [Product service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1572 ms
+2024-08-14T15:19:55.836+05:30  INFO 53152 --- [Product service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-08-14T15:19:55.933+05:30  INFO 53152 --- [Product service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:tcp://localhost/~/target_training_db user=ROOT
+2024-08-14T15:19:55.935+05:30  INFO 53152 --- [Product service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-08-14T15:19:55.999+05:30  INFO 53152 --- [Product service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-14T15:19:56.065+05:30  INFO 53152 --- [Product service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-14T15:19:56.114+05:30  INFO 53152 --- [Product service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-08-14T15:19:56.399+05:30  INFO 53152 --- [Product service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-14T15:19:57.164+05:30  INFO 53152 --- [Product service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-14T15:19:57.167+05:30  INFO 53152 --- [Product service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-14T15:19:57.499+05:30  WARN 53152 --- [Product service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-08-14T15:19:57.886+05:30  INFO 53152 --- [Product service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-14T15:19:57.899+05:30  INFO 53152 --- [Product service] [main] c.targetindia.ProductServiceApplication  : Started ProductServiceApplication in 4.218 seconds (process running for 4.558)
+2024-08-14T15:20:09.572+05:30  INFO 53152 --- [Product service] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-14T15:20:09.574+05:30  INFO 53152 --- [Product service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-08-14T15:20:09.586+05:30  INFO 53152 --- [Product service] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
