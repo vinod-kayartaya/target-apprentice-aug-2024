@@ -6,6 +6,8 @@
 
 - 🎥 [Story of Node JS](https://youtu.be/LB8KwiiUGy0?si=xFSZp3v_svfWcEi9)
 - 🎥 [Story of React JS](https://youtu.be/8pDqJVdNa44?si=-J6ijD9eFaYrEk-c)
+- 🎥 [Understanding Agile Methodology](https://youtu.be/GkrmihTkynQ)
+- 🎥 [Learn React by building a progressive web app](https://youtu.be/XuPazug_PoE)
 
 ### Steps to use the React project
 
